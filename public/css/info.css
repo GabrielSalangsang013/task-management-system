@@ -1,0 +1,97 @@
+.taskinfocontainer {
+    width: 800px;
+    height: auto;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    padding: 65px 75px;
+    box-sizing: border-box;
+    border: 1px solid #DEDEDE;
+}
+
+.taskinfocontainerheader {
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #F4F4F4;
+}
+
+.taskinfocontainertitle {
+    font-size: 32px;
+}
+
+.taskinfocontainertitleleft {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.taskinfocontainermaintitle, .taskinfocontainermaindate, .taskinfocontainermaintask{
+    font-weight: lighter;
+}
+
+.taskcollaboratormain {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.taskcollaboratormainuser {
+    padding: 7px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #E2E2E2;
+    color: #A8A8A8;
+    border-radius: 6px;
+}
+
+.btninfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    border: 1px solid rgb(207, 0, 0);
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.btninfo:hover {
+    cursor: pointer;
+}
+
+.btndelete {
+    color: rgb(207, 0, 0) !important;
+}
+
+.deletebtn {
+    background-color: transparent !important;
+    border: 0px;
+    padding: 0px 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    color: rgb(207, 0, 0);
+
+}
+
+.btndelete:hover {
+    cursor: pointer;
+}
+
+
+.readaddcollabbtn {
+    padding: 12px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6893f1;
+    color: white;
+    border-radius: 6px;
+}
+
+.readaddcollabbtn:hover {
+    cursor: pointer;
+}

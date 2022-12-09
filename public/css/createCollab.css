@@ -1,0 +1,97 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Hind Vadodara', sans-serif;
+}
+
+
+.container {
+    width: 800px;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    position: absolute;
+    padding: 60px 75px;
+    box-sizing: border-box;
+    border: 1px solid #E0E0E0;
+    background-color: white;
+}
+
+.form_container_header {
+    height: 75px;
+}
+
+.form_container_header_title, .btn_leave {
+    float: left;
+}
+
+.btn_leave {
+    background: none;
+    border: none;
+    line-height: 55px;
+
+}
+
+.btn_leave:hover {
+    cursor: pointer;
+}
+
+.btn_leave_arrow {
+    font-size: 30px !important;
+}
+
+.form_container_header_title {
+    font-size: 32px;
+    font-weight: lighter;
+    margin-left: 40px;
+}
+
+.cover_form_container_input {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.form_container_input {
+    width: 48%;
+    height: 100%;
+}
+
+.create_task_input {
+    width: 100%;
+    height: auto;
+    margin-bottom: 40px;
+    padding: 20px 30px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border: 1px solid #DCDCDC;
+    border-radius: 6px;
+    resize: none;
+}
+
+.create_task_input_label {
+    width: 100%;
+    display: block;
+}
+
+.create_task_input_bold {
+    font-weight:bold;
+}
+
+.btn_create_task_submit {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: #6893f1;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: lighter;
+    border-radius: 6px;
+}
+
+.btn_create_task_submit:hover {
+    cursor: pointer;
+}
+
