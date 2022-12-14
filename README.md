@@ -17,5 +17,6 @@ Reference: https://en.wikipedia.org/wiki/Task_management
 - Then, php artisan key:generate
 - Then, php artisan migrate
 - Finally, run the application by using this command, php artisan start
-- Enjoy :)
+- In the terminal you will the project run on http:127.0.0.1:8000 -> visit that link
+- Now you will see the project
 
