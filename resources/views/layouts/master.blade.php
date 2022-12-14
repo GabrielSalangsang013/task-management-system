@@ -10,7 +10,7 @@
     </head>
     <body>
     <div class="header">
-        <a href="#default" class="logo">Project Management</a>
+        <a href="#default" class="logo">Task Management</a>
         <div class="header-right">
         <a class="active"></a>
         <a href="/">Home</a>
