@@ -6,7 +6,10 @@ Reference: https://en.wikipedia.org/wiki/Task_management
 
 # Project Information
 
-- Perform CRUD (Create, Read, Update, and Delete) Operations using Laravel and MySQL
+Perform CRUD (Create, Read, Update, and Delete) Operations using Laravel and MySQL
+
+View\
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74645297/207726034-44a76d8d-4bdc-4d47-97cb-e55160aba7b9.gif)
 
 # Installation
 - Clone this project, you can put the project anywhere
