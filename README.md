@@ -12,7 +12,7 @@ Reference: https://en.wikipedia.org/wiki/Task_management
 - Clone this project, you can put the project anywhere
 - Open XAMPP, run apache server and mysql
 - Go to phpmyadmin, create database name task_management
-- Open the project using visual studio
+- Open the project using VS Code
 - Open terminal and run command composer install
 - Then, php artisan key:generate
 - Then, php artisan migrate
